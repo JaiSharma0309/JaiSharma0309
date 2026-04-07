@@ -13,9 +13,6 @@ Built an end to end NBA play by play analytics pipeline that converts messy game
 ### [Spotify Hit Song Prediction](https://github.com/JaiSharma0309/Spotify-Hit-Song-Prediction)
 Used audio features and metadata to model what makes a song more likely to become a hit, with a focus on feature importance and interpretable results.
 
-### [AI Investment Advisor](https://github.com/JaiSharma0309/AI-Powered-Investment-Advisor)
-Built a project exploring how AI can support investment related analysis and decision making through data driven insights.
-
 ### [Form Location Finder](https://github.com/JaiSharma0309/Form-Location-Finder-application-TD-Bann-Financial-Group-)
 Built a tool to help users find the right form locations more efficiently, making information retrieval faster and easier to navigate.
 
