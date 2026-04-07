@@ -23,5 +23,5 @@ Built a tool to help users find the right form locations more efficiently, makin
 Python, pandas, scikit learn, SQL, Git, Seaborn, machine learning, NLP, data visualization, analytics, financial data analysis
 
 ## Connect
-- [LinkedIn](www.linkedin.com/in/js0309)
+- [LinkedIn](https://www.linkedin.com/in/js0309/)
 - [Resume](./resume.pdf)
